@@ -1,2 +1,2 @@
 # portfolio
-Hamza Abdullah - GIS specialist portfolio
+Hamza Abdullah - GIS Developer Portfolio
